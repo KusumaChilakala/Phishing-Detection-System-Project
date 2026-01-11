@@ -1,0 +1,16 @@
+streamlit
+pandas
+scikit-learn==1.1.3 
+scikit-learn==1.2.2
+
+flask
+beautifulsoup4 
+lxml            
+joblib
+google
+whois
+lightgbm
+# Add other dependencies your feature.py or app.py uses, such as:
+# numpy
+# joblib
+# tldextract
